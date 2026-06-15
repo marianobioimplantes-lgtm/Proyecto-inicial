@@ -16,6 +16,14 @@ Este repositorio contiene el código fuente del proyecto inicial.
 
 Próximamente.
 
+## Contribución
+
+Las contribuciones son bienvenidas. Por favor abrí un issue antes de enviar un pull request.
+
+## Licencia
+
+MIT
+
 ## Contacto
 
 mariano@bioimplantes.com.ar
